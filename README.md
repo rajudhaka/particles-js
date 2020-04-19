@@ -1,1 +1,2 @@
-Add particles js then app.js
+Add particles.js 
+Then add app.js
